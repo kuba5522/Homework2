@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Zadanie2</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="long_click">LONG CLICK</string>
+    <string name="retray_msg">RETRAY</string>
+    <string name="delete_cancel_msg">DELETE CANCEL</string>
+    <string name="dialog_confirm">CONFIRM</string>
+    <string name="dialog_cancel">CANCEL</string>
+    <string name="delete_question">DELETE QUESTION</string>
+    <string name="bin">BIN</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="data_urodzin">Data urodzin</string>
+    <string name="imi_i_nazwisko">Imię i nazwisko</string>
+    <string name="kr_tki_opis">Krótki opis</string>
+    <string name="nazwa">nazwa</string>
+    <string name="opis">opis</string>
+    <string name="data">data</string>
+    <string name="myFileprovider">com.example.zadanie2</string>
+    <string name="prefs">prefs</string>
+    <string name="text">text</string>
+    <string name="json">json</string>
+</resources>
